@@ -1,0 +1,9 @@
+﻿GER = {
+    possible = { always = no }
+}
+ITA = {
+    possible = { always = no }
+}
+SCA = {
+    possible = { always = no }
+}

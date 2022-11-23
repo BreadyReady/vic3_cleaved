@@ -1,0 +1,19 @@
+﻿STATE_RUSSO_ALASKAN_SEA = {
+    id = 10001
+    provinces = { xE0E0E0 }
+}
+
+STATE_NORTHWEST_PASSAGE_SEA = {
+    id = 10002
+    provinces = { xD0D0D0 }
+}
+
+STATE_EASTCOAST_OCEAN = {
+    id = 10003
+    provinces = { xC0C0C0 }
+}
+
+STATE_WESTCOAST_OCEAN = {
+    id = 10004
+    provinces = { x9E9E9E }
+}

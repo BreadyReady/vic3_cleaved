@@ -1,0 +1,915 @@
+﻿UBD = {
+	possible = { always = no }
+}
+AUS = {
+	possible = { always = no }
+}
+IRE = {
+	possible = { always = no }
+}
+MTC = {
+	possible = { always = no }
+}
+GEO = {
+	possible = { always = no }
+}
+ARM = {
+	possible = { always = no }
+}
+DAG = {
+	possible = { always = no }
+}
+AZB = {
+	possible = { always = no }
+}
+SCO = {
+	possible = { always = no }
+}
+WLS = {
+	possible = { always = no }
+}
+ULS = {
+	possible = { always = no }
+}
+ENG = {
+	possible = { always = no }
+}
+LAT = {
+	possible = { always = no }
+}
+EST = {
+	possible = { always = no }
+}
+LIT = {
+	possible = { always = no }
+}
+SWE = {
+	possible = { always = no }
+}
+FIN = {
+	possible = { always = no }
+}
+NOR = {
+	possible = { always = no }
+}
+DEN = {
+	possible = { always = no }
+}
+ICL = {
+	possible = { always = no }
+}
+CSA = {
+	possible = { always = no }
+}
+ASA = {
+	possible = { always = no }
+}
+LOU = {
+	possible = { always = no }
+}
+AGJ = {
+	possible = { always = no }
+}
+AMZ = {
+	possible = { always = no }
+}
+CHE = {
+	possible = { always = no }
+}
+SCN = {
+	possible = { always = no }
+}
+NAV = {
+	possible = { always = no }
+}
+TRS = {
+	possible = { always = no }
+}
+CRI = {
+	possible = { always = no }
+}
+TRE = {
+	possible = { always = no }
+}
+FRA = {
+	possible = { always = no }
+}
+BRI = {
+	possible = { always = no }
+}
+JAN = {
+	possible = { always = no }
+}
+POL = {
+	possible = { always = no }
+}
+UKR = {
+	possible = { always = no }
+}
+GAL = {
+	possible = { always = no }
+}
+HUN = {
+	possible = { always = no }
+}
+ROM = {
+	possible = { always = no }
+}
+BOH = {
+	possible = { always = no }
+}
+CRO = {
+	possible = { always = no }
+}
+SLV = {
+	possible = { always = no }
+}
+VEN = {
+	possible = { always = no }
+}
+LOM = {
+	possible = { always = no }
+}
+BYE = {
+	possible = { always = no }
+}
+CRE = {
+	possible = { always = no }
+}
+POM = {
+	possible = { always = no }
+}
+ANH = {
+	possible = { always = no }
+}
+NAS = {
+	possible = { always = no }
+}
+HES = {
+	possible = { always = no }
+}
+WES = {
+	possible = { always = no }
+}
+PRU = {
+	possible = { always = no }
+}
+JAP = {
+	possible = { always = no }
+}
+RUS = {
+	possible = { always = no }
+}
+CHI = {
+	possible = { always = no }
+}
+DAI = {
+	possible = { always = no }
+}
+JAV = {
+	possible = { always = no }
+}
+KOR = {
+	possible = { always = no }
+}
+LAO = {
+	possible = { always = no }
+}
+VIE = {
+	possible = { always = no }
+}
+CMI = {
+	possible = { always = no }
+}
+TIB = {
+	possible = { always = no }
+}
+MGL = {
+	possible = { always = no }
+}
+MCH = {
+	possible = { always = no }
+}
+XIN = {
+	possible = { always = no }
+}
+HAI = {
+	possible = { always = no }
+}
+DOM = {
+	possible = { always = no }
+}
+WIN = {
+	possible = { always = no }
+}
+MAY = {
+	possible = { always = no }
+}
+CAT = {
+	possible = { always = no }
+}
+SPA = {
+	possible = { always = no }
+}
+ELS = {
+	possible = { always = no }
+}
+GUA = {
+	possible = { always = no }
+}
+ALT = {
+	possible = { always = no }
+}
+NIC = {
+	possible = { always = no }
+}
+HON = {
+	possible = { always = no }
+}
+COS = {
+	possible = { always = no }
+}
+FRM = {
+	possible = { always = no }
+}
+LUB = {
+	possible = { always = no }
+}
+HAM = {
+	possible = { always = no }
+}
+BRE = {
+	possible = { always = no }
+}
+CUB = {
+	possible = { always = no }
+}
+PCO = {
+	possible = { always = no }
+}
+JAM = {
+	possible = { always = no }
+}
+BAH = {
+	possible = { always = no }
+}
+PHI = {
+	possible = { always = no }
+}
+PUE = {
+	possible = { always = no }
+}
+NAH = {
+	possible = { always = no }
+}
+GRN = {
+	possible = { always = no }
+}
+AIN = {
+	possible = { always = no }
+}
+ANL = {
+	possible = { always = no }
+}
+CAS = {
+	possible = { always = no }
+}
+CAN = {
+	possible = { always = no }
+}
+QUE = {
+	possible = { always = no }
+}
+NBS = {
+	possible = { always = no }
+}
+NVS = {
+	possible = { always = no }
+}
+AST = {
+	possible = { always = no }
+}
+NZL = {
+	possible = { always = no }
+}
+YUC = {
+	possible = { always = no }
+}
+RIO = {
+	possible = { always = no }
+}
+PNI = {
+	possible = { always = no }
+}
+CEY = {
+	possible = { always = no }
+}
+NEN = {
+	possible = { always = no }
+}
+PNM = {
+	possible = { always = no }
+}
+TWT = {
+	possible = { always = no }
+}
+AYM = {
+	possible = { always = no }
+}
+IRO = {
+	possible = { always = no }
+}
+TEX = {
+	possible = { always = no }
+}
+WLL = {
+	possible = { always = no }
+}
+MLT = {
+	possible = { always = no }
+}
+FLA = {
+	possible = { always = no }
+}
+NNV = {
+	possible = { always = no }
+}
+NEW = {
+	possible = { always = no }
+}
+SMI = {
+	possible = { always = no }
+}
+GBR = {
+	possible = { always = no }
+}
+BOS = {
+	possible = { always = no }
+}
+SAF = {
+	possible = { always = no }
+}
+BUL = {
+	possible = { always = no }
+}
+OCC = {
+	possible = { always = no }
+}
+IRQ = {
+	possible = { always = no }
+}
+CYP = {
+	possible = { always = no }
+}
+TUV = {
+	possible = { always = no }
+}
+COR = {
+	possible = { always = no }
+}
+YAK = {
+	possible = { always = no }
+}
+TNS = {
+	possible = { always = no }
+}
+FER = {
+	possible = { always = no }
+}
+IUS = {
+	possible = { always = no }
+}
+NCA = {
+	possible = { always = no }
+}
+DON = {
+	possible = { always = no }
+}
+SYR = {
+	possible = { always = no }
+}
+EOT = {
+	possible = { always = no }
+}
+LEB = {
+	possible = { always = no }
+}
+SUD = {
+	possible = { always = no }
+}
+MEX = {
+	possible = { always = no }
+}
+ALD = {
+	possible = { always = no }
+}
+YUG = {
+	possible = { always = no }
+}
+ZIM = {
+	possible = { always = no }
+}
+CLM = {
+	possible = { always = no }
+}
+TUR = {
+	possible = { always = no }
+}
+DZG = {
+	possible = { always = no }
+}
+EGY = {
+	possible = { always = no }
+}
+CZH = {
+	possible = { always = no }
+}
+ARG = {
+	possible = { always = no }
+}
+HAN = {
+	possible = { always = no }
+}
+SIC = {
+	possible = { always = no }
+}
+UCA = {
+	possible = { always = no }
+}
+SLO = {
+	possible = { always = no }
+}
+ALB = {
+	possible = { always = no }
+}
+KUR = {
+	possible = { always = no }
+}
+GLI = {
+	possible = { always = no }
+}
+ISR = {
+	possible = { always = no }
+}
+PAL = {
+	possible = { always = no }
+}
+SIB = {
+	possible = { always = no }
+}
+UOM = {
+	possible = { always = no }
+}
+CAL = {
+	possible = { always = no }
+}
+USA = {
+	possible = { always = no }
+}
+BEL = {
+	possible = { always = no }
+}
+NET = {
+	possible = { always = no }
+}
+POR = {
+	possible = { always = no }
+}
+BAD = {
+	possible = { always = no }
+}
+BAV = {
+	possible = { always = no }
+}
+BRA = {
+	possible = { always = no }
+}
+HOL = {
+	possible = { always = no }
+}
+SCH = {
+	possible = { always = no }
+}
+LUX = {
+	possible = { always = no }
+}
+MEC = {
+	possible = { always = no }
+}
+OLD = {
+	possible = { always = no }
+}
+SAX = {
+	possible = { always = no }
+}
+WUR = {
+	possible = { always = no }
+}
+LUC = {
+	possible = { always = no }
+}
+MOD = {
+	possible = { always = no }
+}
+PAP = {
+	possible = { always = no }
+}
+PAR = {
+	possible = { always = no }
+}
+PRA = {
+	possible = { always = no }
+}
+SAR = {
+	possible = { always = no }
+}
+TUS = {
+	possible = { always = no }
+}
+KRA = {
+	possible = { always = no }
+}
+SWI = {
+	possible = { always = no }
+}
+GRE = {
+	possible = { always = no }
+}
+ION = {
+	possible = { always = no }
+}
+MOL = {
+	possible = { always = no }
+}
+MON = {
+	possible = { always = no }
+}
+SER = {
+	possible = { always = no }
+}
+ABU = {
+	possible = { always = no }
+}
+AFG = {
+	possible = { always = no }
+}
+BUK = {
+	possible = { always = no }
+}
+HDJ = {
+	possible = { always = no }
+}
+KHI = {
+	possible = { always = no }
+}
+KOK = {
+	possible = { always = no }
+}
+NEJ = {
+	possible = { always = no }
+}
+OMA = {
+	possible = { always = no }
+}
+PER = {
+	possible = { always = no }
+}
+JAB = {
+	possible = { always = no }
+}
+YEM = {
+	possible = { always = no }
+}
+MAH = {
+	possible = { always = no }
+}
+KAT = {
+	possible = { always = no }
+}
+ZAI = {
+	possible = { always = no }
+}
+LAH = {
+	possible = { always = no }
+}
+BHN = {
+	possible = { always = no }
+}
+AWA = {
+	possible = { always = no }
+}
+BAS = {
+	possible = { always = no }
+}
+BER = {
+	possible = { always = no }
+}
+BHO = {
+	possible = { always = no }
+}
+BIK = {
+	possible = { always = no }
+}
+BUN = {
+	possible = { always = no }
+}
+GWA = {
+	possible = { always = no }
+}
+HYD = {
+	possible = { always = no }
+}
+BGL = {
+	possible = { always = no }
+}
+IND = {
+	possible = { always = no }
+}
+JAI = {
+	possible = { always = no }
+}
+JAS = {
+	possible = { always = no }
+}
+JOD = {
+	possible = { always = no }
+}
+KAL = {
+	possible = { always = no }
+}
+KAS = {
+	possible = { always = no }
+}
+KUT = {
+	possible = { always = no }
+}
+MAK = {
+	possible = { always = no }
+}
+MEW = {
+	possible = { always = no }
+}
+MYS = {
+	possible = { always = no }
+}
+NAG = {
+	possible = { always = no }
+}
+NEP = {
+	possible = { always = no }
+}
+ORI = {
+	possible = { always = no }
+}
+PAN = {
+	possible = { always = no }
+}
+SIK = {
+	possible = { always = no }
+}
+SIN = {
+	possible = { always = no }
+}
+TRA = {
+	possible = { always = no }
+}
+ACE = {
+	possible = { always = no }
+}
+BAL = {
+	possible = { always = no }
+}
+BHU = {
+	possible = { always = no }
+}
+LAN = {
+	possible = { always = no }
+}
+BRU = {
+	possible = { always = no }
+}
+BUR = {
+	possible = { always = no }
+}
+CAM = {
+	possible = { always = no }
+}
+LUA = {
+	possible = { always = no }
+}
+CHP = {
+	possible = { always = no }
+}
+JOH = {
+	possible = { always = no }
+}
+SIA = {
+	possible = { always = no }
+}
+DES = {
+	possible = { always = no }
+}
+ONT = {
+	possible = { always = no }
+}
+BOL = {
+	possible = { always = no }
+}
+BRZ = {
+	possible = { always = no }
+}
+CHL = {
+	possible = { always = no }
+}
+ECU = {
+	possible = { always = no }
+}
+PEU = {
+	possible = { always = no }
+}
+PRG = {
+	possible = { always = no }
+}
+URU = {
+	possible = { always = no }
+}
+VNZ = {
+	possible = { always = no }
+}
+ORG = {
+	possible = { always = no }
+}
+SEQ = {
+	possible = { always = no }
+}
+MKT = {
+	possible = { always = no }
+}
+PRM = {
+	possible = { always = no }
+}
+HZJ = {
+	possible = { always = no }
+}
+TRC = {
+	possible = { always = no }
+}
+ASM = {
+	possible = { always = no }
+}
+MNP = {
+	possible = { always = no }
+}
+TOB = {
+	possible = { always = no }
+}
+KLT = {
+	possible = { always = no }
+}
+HTH = {
+	possible = { always = no }
+}
+KRN = {
+	possible = { always = no }
+}
+KHM = {
+	possible = { always = no }
+}
+KHN = {
+	possible = { always = no }
+}
+EZO = {
+	possible = { always = no }
+}
+QIA = {
+	possible = { always = no }
+}
+FRS = {
+	possible = { always = no }
+}
+YUN = {
+	possible = { always = no }
+}
+YUE = {
+	possible = { always = no }
+}
+SRB = {
+	possible = { always = no }
+}
+BLH = {
+	possible = { always = no }
+}
+HNA = {
+	possible = { always = no }
+}
+AHU = {
+	possible = { always = no }
+}
+ZHI = {
+	possible = { always = no }
+}
+SHN = {
+	possible = { always = no }
+}
+GUI = {
+	possible = { always = no }
+}
+GNG = {
+	possible = { always = no }
+}
+SIH = {
+	possible = { always = no }
+}
+SHA = {
+	possible = { always = no }
+}
+XIB = {
+	possible = { always = no }
+}
+COB = {
+	possible = { always = no }
+}
+MEI = {
+	possible = { always = no }
+}
+WEI = {
+	possible = { always = no }
+}
+SCW = {
+	possible = { always = no }
+}
+HEK = {
+	possible = { always = no }
+}
+LIP = {
+	possible = { always = no }
+}
+SCM = {
+	possible = { always = no }
+}
+MST = {
+	possible = { always = no }
+}
+HOH = {
+	possible = { always = no }
+}
+WLD = {
+	possible = { always = no }
+}
+SAK = {
+	possible = { always = no }
+}
+PON = {
+	possible = { always = no }
+}
+SMB = {
+	possible = { always = no }
+}
+JMB = {
+	possible = { always = no }
+}
+YOG = {
+	possible = { always = no }
+}
+SRK = {
+	possible = { always = no }
+}
+BTN = {
+	possible = { always = no }
+}
+SEL = {
+	possible = { always = no }
+}
+PRK = {
+	possible = { always = no }
+}
+SUL = {
+	possible = { always = no }
+}
+TID = {
+	possible = { always = no }
+}
+STG = {
+	possible = { always = no }
+}
+BNJ = {
+	possible = { always = no }
+}
+CIR = {
+	possible = { always = no }
+}
+CHC = {
+	possible = { always = no }
+}
+HOB = {
+	possible = { always = no }
+}
+ASS = {
+	possible = { always = no }
+}
+WAL = {
+	possible = { always = no }
+}
+KLM = {
+	possible = { always = no }
+}

@@ -1,0 +1,10 @@
+﻿STATES = {
+	s:STATE_AMERICA = {
+		create_state = {
+			country = c:USA
+			owned_provinces = { xA00060 }
+		}
+
+		add_homeland = yankee
+	}
+}

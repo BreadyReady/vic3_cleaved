@@ -1,0 +1,5 @@
+﻿region_america = {
+	capital_province = "xA00060"
+	map_color = { 160 0 96 }
+	states = { STATE_AMERICA }
+}

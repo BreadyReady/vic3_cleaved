@@ -1,0 +1,16 @@
+# Mainland
+xA00060= "plains"
+
+# Seas
+x9E9E9E = "ocean"
+xE0E0E0 = "ocean"
+xD0D0D0 = "ocean"
+xC0C0C0 = "ocean"
+
+# Debug
+x700090 = "mountain"
+x800080 = "wetland"
+x900070 = "jungle"
+xA00060 = "desert"
+xFFFFFF = "ocean"
+xF8F8F8 = "ocean"

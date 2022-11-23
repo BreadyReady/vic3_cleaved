@@ -1,0 +1,1680 @@
+﻿GER = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+GRI = {
+	country_type = unrecognized	
+	tier = principality
+	cultures = { yankee }
+}
+GBR = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+SCA = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+RUS = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+FRA = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+PRU = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+WES = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+POM = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+AUS = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+USA = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+CSA = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+FSA = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+ASA = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+LOU = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+AGJ = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+AMZ = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+JAP = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+ITA = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+KUK = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+DEN = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+FIN = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+NOR = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+SWE = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+SCN = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+BEL = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+CAT = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+FLA = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+IRE = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+NET = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+POR = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+SCO = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+ENG = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+ULS = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+WLS = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+NAV = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+SPA = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+WLL = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+ANH = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+BAD = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+BAV = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+BRA = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+BRE = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+DZG = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+FRM = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+HAM = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+HAN = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+HES = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+HOL = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+LUB = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+LUX = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+MEC = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+NAS = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+OLD = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+SAX = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+WUR = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+LOM = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+LUC = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+MOD = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+PAP = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+PAR = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+PRA = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+SAR = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+SIC = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+TRE = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+TUS = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+VEN = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+BOH = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+KRA = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+CRI = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+EST = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+HUN = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+LIT = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+LAT = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+POL = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+GAL = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+SLV = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+SWI = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+TRS = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+UKR = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+CZH = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+ALB = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+BOS = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+BUL = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+CRE = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+CRO = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+CYP = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+GRE = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+ION = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+MOL = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+MON = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+ROM = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+SER = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+SLO = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+TUR = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+WAL = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+YUG = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+ABU = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+AFG = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+ARM = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+DAG = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+AZB = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+BUK = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+GEO = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+HDJ = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+IRQ = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+KHI = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+KOK = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+KAZ = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+MUG = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+NEJ = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+OMA = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+PER = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+JAB = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+YEM = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+MAH = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+KAT = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+ZAI = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+LAH = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+BHN = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+HND = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+AWA = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+BAS = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+BER = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+BHO = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+BIK = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+BUN = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+GWA = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+HYD = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+BGL = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+IND = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+JAI = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+JAS = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+JOD = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+KAL = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+KAS = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+KUT = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+LAD = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+MAK = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+MEW = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+MYS = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+NAG = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+NEP = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+ORI = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+PAN = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+SIK = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+SIN = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+TRA = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+ACE = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+BAL = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+BHU = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+LAN = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+BRU = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+BUR = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+CAM = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+CHI = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+DAI = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+JAV = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+KOR = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+LAO = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+LUA = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+CHP = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+VIE = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+JOH = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+SIA = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+CMI = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+TIB = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+MGL = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+XIN = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+PHI = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+MCH = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+CAL = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+CAN = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+CHE = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+COL = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+COS = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+CUB = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+DES = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+DOM = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+ELS = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+GUA = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+ALT = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+HAI = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+MEX = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+MTC = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+HON = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+NEN = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+NEW = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+NIC = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+PNM = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+QUE = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+HBC = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+ONT = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+NBS = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+NVS = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+TEX = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+UCA = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+ARG = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+BOL = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+BRZ = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+CHL = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+CLM = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+ECU = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+PEU = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+PRG = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+URU = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+VNZ = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+ISR = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+BYZ = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+ICL = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+ARA = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+UBD = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+BYE = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+PLC = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+GCO = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+JAN = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+BIC = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+BRI = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+PAT = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+THL = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+SLK = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+TNG = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+WIN = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+MAY = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+IBE = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+ORG = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+COM = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+SEQ = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+DKT = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+LKT = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+NVJ = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+ARP = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+NZP = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+ABS = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+IRC = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+JAM = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+BAH = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+PCO = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+MKT = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+NAH = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+GRN = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+ANL = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+CAS = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+SMI = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+MLT = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+PRM = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+HZJ = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+TRC = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+SIB = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+YAK = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+ASM = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+MNP = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+TOB = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+KLT = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+HTH = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+KRN = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+KHM = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+KHN = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+AIN = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+EZO = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+QIA = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+FRS = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+YUN = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+YUE = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+OAX = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+MCO = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+TWT = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+AYM = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+WYU = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+TPI = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+PUE = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+NNV = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+NVL = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+ATB = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+CSC = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+IRO = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+CTF = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+MSC = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+UTE = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+PWN = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+APC = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+BLF = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+CCM = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+ORN = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+MUI = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+SRB = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+YUC = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+RIO = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+PNI = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+CEY = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+BLH = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+NGF = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+SGF = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+OCC = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+TUV = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+COR = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+TNS = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+FER = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+IUS = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+NCA = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+DON = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+SYR = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+EOT = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+LEB = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+HNA = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+AHU = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+ZHI = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+SHN = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+GUI = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+GNG = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+SIH = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+SHA = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+XIB = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+TPG = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+GNI = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+KUR = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+GLI = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+PAL = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+TRH = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+COB = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+MEI = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+WEI = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+SCW = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+HEK = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+LIP = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+SCM = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+MST = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+HOH = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+WLD = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+BHT = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+UOM = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+CIR = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+CHC = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+ASS = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+KLM = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}
+SCH = {
+	country_type = unrecognized
+	tier = principality
+	cultures = { yankee }
+}

@@ -1,0 +1,19 @@
+{
+  "name" : "Cleaved",
+  "id" : "",
+  "version" : "0.0.1",
+  "supported_game_version" : "1.0.*",
+  "short_description" : "",
+  "tags" : [
+	"Total Conversion"
+  ],
+  "relationships": [],
+  "game_custom_data": {
+    "multiplayer_synchronized" : true,
+	    "replace_paths": [
+			"common/history/countries",
+			"common/country_creation",
+			"map_data/state_regions"
+		]
+  }
+}

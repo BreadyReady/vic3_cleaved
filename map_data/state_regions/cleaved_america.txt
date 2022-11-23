@@ -1,0 +1,24 @@
+﻿STATE_AMERICA = {
+    id = 1
+    subsistence_building = "building_subsistence_farms"
+    provinces = { xA00060 }
+    traits = {}
+    city = "xA00060"
+    farm = "xA00060"
+    mine = "xA00060"
+    wood = "xA00060"
+    arable_land = 500
+    arable_resources = { "bg_rye_farms" "bg_wheat_farms" "bg_rice_farms" "bg_maize_farms" "bg_millet_farms" "bg_livestock_ranches" "bg_coffee_plantations" "bg_cotton_plantations" "bg_silk_plantations" "bg_dye_plantations" "bg_opium_plantations" "bg_tea_plantations" "bg_tobacco_plantations" "bg_sugar_plantations" "bg_banana_plantations" }
+    capped_resources = {
+        bg_gold_mining = 10
+        bg_coal_mining = 10
+        bg_iron_mining = 10
+        bg_lead_mining = 10
+        bg_sulfur_mining = 10
+        bg_logging = 10
+        bg_rubber = 10
+        bg_whaling = 10
+        bg_fishing = 10
+        bg_oil_extraction = 10
+    }
+}

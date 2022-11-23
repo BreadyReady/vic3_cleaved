@@ -1,0 +1,126 @@
+﻿GBR = {
+    possible = { always = no }
+}
+ENG = {
+    possible = { always = no }
+}
+UCA = {
+    possible = { always = no }
+}
+RUS = {
+    possible = { always = no }
+}
+IRE = {
+    possible = { always = no }
+}
+FRA = {
+    possible = { always = no }
+}
+SWE = {
+    possible = { always = no }
+}
+LAO = {
+    possible = { always = no }
+}
+UBD = {
+    possible = { always = no }
+}
+BYZ = {
+    possible = { always = no }
+}
+PLC = {
+    possible = { always = no }
+}
+PRU = {
+    possible = { always = no }
+}
+CHI = {
+    possible = { always = no }
+}
+ETH = {
+    possible = { always = no }
+}
+AOT = {
+    possible = { always = no }
+}
+WIN = {
+    possible = { always = no }
+}
+IBE = {
+    possible = { always = no }
+}
+CLM = {
+    possible = { always = no }
+}
+BRZ = {
+    possible = { always = no }
+}
+SPA = {
+    possible = { always = no }
+}
+MEX = {
+    possible = { always = no }
+}
+KUK = {
+    possible = { always = no }
+}
+USA = {
+    possible = { always = no }
+}
+FSA = {
+    possible = { always = no }
+}
+CZH = {
+    possible = { always = no }
+}
+CAN = {
+    possible = { always = no }
+}
+AST = {
+    possible = { always = no }
+}
+POL = {
+    possible = { always = no }
+}
+ROM = {
+    possible = { always = no }
+}
+ARA = {
+    possible = { always = no }
+}
+GCO = {
+    possible = { always = no }
+}
+ZIM = {
+    possible = { always = no }
+}
+BLH = {
+    possible = { always = no }
+}
+NGF = {
+    possible = { always = no }
+}
+SGF = {
+    possible = { always = no }
+}
+MAL = {
+    possible = { always = no }
+}
+YUG = {
+    possible = { always = no }
+}
+SAF = {
+    possible = { always = no }
+}
+TRH = {
+    possible = { always = no }
+}
+IDN = {
+    possible = { always = no }
+}
+BHT = {
+    possible = { always = no }
+}
+YEM = {
+    possible = { always = no }
+}
